@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Makana Industries Operational Excellence Portal",
+  "description": "A comprehensive industrial management portal for Makana Industries, focusing on compliance, project tracking (inch-dia), and asset management for Saudi Aramco and SABIC standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
